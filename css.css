@@ -1,0 +1,90 @@
+  
+    @media only screen and (max-width: 600px) {...}
+
+    /* Small devices (portrait tablets and large phones, 600px and up) */
+    @media only screen and (min-width: 600px) {...}
+    
+    /* Medium devices (landscape tablets, 768px and up) */
+    @media only screen and (min-width: 768px) {...}
+    
+    /* Large devices (laptops/desktops, 992px and up) */
+    @media only screen and (min-width: 992px) {...}
+    
+    /* Extra large devices (large laptops and desktops, 1200px and up) */
+    @media only screen and (min-width: 1200px) {...}   
+
+.login{
+    position: absolute;
+    top: 25px;
+    left: 1400px;
+    font-size: 25px;
+}
+.about{
+    position: absolute;
+    top: 25px;
+    left: 1250px;
+    font-size: 25px;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.mid{
+    position: relative;
+    left: 43%;
+}
+.think{
+    font-size: 30px;
+    border: 10px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+    color: aliceblue;
+
+}
+.div{
+   position: absolute;
+    top: 840px;
+    left: 280px;            
+   
+    font-size: 25px;
+    color:black;
+}
+.div1{         
+  
+    font-size: 15px;
+    color: black;
+    display:inline-block;
+}
+li{
+    color: white;
+}
+.home{
+      position: absolute;
+      top: 25px;
+      left: 1150px;
+      font-size: 25px;
+}
+#comp{
+    font-size: large;
+    font-weight: 500;
+    font-size: 25px;
+    color:rgb(10, 1, 1);
+    position: relative;
+    top: 100px;
+    left: 80px;
+    
+}
+.comp{
+    color:white;
+}
+.explore{
+    position: absolute;
+    left: 80%;
+    top: 75%;
+}
+
+@media(max-width){
+
+}
